@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/atom/_colors.js","scripts/app.js"],"names":[],"mappings":";;;KACM,MAAM;;;;AAAN,SAAM,GAAG;AACd,QAAI,EAAE,SAAS;IACf;;sBACc,MAAM;;;;;;;;;;;;;;;;ACErB,UAAS,IAAI,GAAG;AACf,SAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAA;AACnB,UAAQ,CAAC,IAAI,CAAC,SAAS,GAAG,oCAAoC,CAAC;EAC/D;;;;;;;AAED,OAAI,EAAE,CAAC","file":"build.js"}
